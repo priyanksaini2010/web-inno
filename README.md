@@ -10,14 +10,14 @@
 <h2>Problem Statement</h2>
     <ul>
         <li>
-            Subscription Based Services need a lot manual workd
+            Business owner offering subscription based services need a lot manual intervention.
         </li>
         <li> Problem with current approach :
             <ul>
                 <li>Customer either pay per month which may sometimes delay in payment.</li>
-		    <li>Business owner has to keep track of all subscription</li>
-		    <li>No analysis </li>
-		    <li>Busniess owner have to send manual invoices for each payment </li>
+		    <li>Business owner has to keep track of all subscription.</li>
+		    <li>No analysis. </li>
+		    <li>Busniess owner have to send manual invoices for each payment. </li>
             </ul>
         </li>
     </ul>
@@ -25,45 +25,42 @@
          
             
 <h2>Solution</h2>
-<h4>Solution for problem </h4>
+
     <ul>
         <li>
-            Customer can now pay once and they will be charged automatically for next due dates.
+            Customer can now pay once and they can be charged automatically for next due dates.
         </li>
 	<li>
-            Business owner will now have ability to monitor all the subscription to his service
+            Business owner will now have ability to monitor all the subscription to his service.
         </li>
 	<li>
-            Business owner can now see analysis of the revenue growth or loss
+            Business owner can now see analysis of the revenue growth or loss.
         </li>
 	<li>
-            Invoicing can be automated
+            Invoicing can be automated.
         </li>
 	<li>
-            Business owner now has ability to pause subscription on non paying accounts
+            Business owner now has ability to pause subscription on non paying accounts.
         </li>
     </ul>
 <h2>Value Adds</h2>
 <ul>
     <li>Bank customers will have easier access to subscription (Good for customers).</li>
     <li>No more manual payment would be required.</li>
-<li>Banks can charge business owners for subscription of this product </li>
+<li>Banks can charge business owners for subscription of this product. </li>
     <li>The Customer can have the exact idea of number of subscribers and record of transactions.</li>
-	<li>FIS can generate revenue by this offering </li>
+	<li>FIS can generate revenue by this offering. </li>
 </ul>
 <h2>Additional Benefits </h2>
 <ul>
 	<li>
-		FIS Charge can be utilized not only by business owner but also by Banks and FIS too
+		FIS Charge can be utilized not only by business owner but also by Banks and FIS too.
 	</li>
 	<li>
-		It can be enhace with Machine Learning algorithms to analyze custmoers sentments on each offerings
+		It can be enhace with Machine Learning algorithms to analyze custmoers sentments on each offerings.
 	</li>
 </ul>
-<h2> Platform </h2>
-    <li> iOS </li>
-
-<h3>Programming Language Used </h3>	
+<h3>Tech Stack </h3>	
 <ul>
     <li>Swift</li>
     <li>
@@ -96,7 +93,6 @@
 	</li>
 </ul>
 
--- Still to be Done --
 <h2>Constraints in current POC</h2>
 <ul>
     <li>
