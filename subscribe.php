@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </form>
-                <div> <input type="button" value="Proceed to payment" class="btn btn-primary btn-block"> </div>
+                <div> <input onclick="window.location.href='pay.php'" type="button" value="Proceed to payment" class="btn btn-primary btn-block"> </div>
             </div>
         </div>
         <div class="col-sm-3 col-md-4 offset-md-1 mobile">
