@@ -25,7 +25,6 @@
          
             
 <h2>Solution</h2>
-
     <ul>
         <li>
             Customer can now pay once and they can be charged automatically for next due dates.
