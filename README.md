@@ -30,16 +30,16 @@
         <li>
             Customer can now pay once and they can be charged automatically for next due dates.
         </li>
-	<li>
+	    <li>
             Business owner will now have ability to monitor all the subscription to his service.
         </li>
-	<li>
+	    <li>
             Business owner can now see analysis of the revenue growth or loss.
         </li>
-	<li>
+	    <li>
             Invoicing can be automated.
         </li>
-	<li>
+	    <li>
             Business owner now has ability to pause subscription on non paying accounts.
         </li>
     </ul>
