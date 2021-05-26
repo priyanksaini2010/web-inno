@@ -85,14 +85,7 @@
 	</li>
 </ul>
 
-<h2>Agility</h2>
-<ul>
-    	<li>
-		    
-	</li>
-	<li>
-	<li>
-</ul>
+
 <h2>Future Scope</h2>
 <ul>
     <li>
