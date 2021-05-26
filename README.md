@@ -56,7 +56,7 @@
 		FIS Charge can be utilized not only by business owner but also by Banks and FIS too.
 	</li>
 	<li>
-		It can be enhace with Machine Learning algorithms to analyze custmoers sentments on each offerings.
+		It can be strong arm with machine learning algorithms to analyze customers sentiments on each offerings.
 	</li>
 </ul>
 <h3>Tech Stack </h3>	
