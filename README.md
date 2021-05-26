@@ -17,7 +17,7 @@
                 <li>Customer either pay per month which may sometimes delay in payment.</li>
 		    <li>Business owner has to keep track of all subscription.</li>
 		    <li>No analysis. </li>
-		    <li>Busniess owner have to send manual invoices for each payment. </li>
+		    <li>Business owner have to send manual invoices for each payment. </li>
             </ul>
         </li>
     </ul>
